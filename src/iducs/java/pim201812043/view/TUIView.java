@@ -35,7 +35,7 @@ public class TUIView {
         }
     }
 
-    public int inputMenu() { // 메뉴 입력
+    public int inputMenu() {
         int menu = 0;
         boolean flag = false;
         do {
